@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Dave</h1>
-<h3 align="center">"<h1 align="center">Hi 👋, I'm Jay Dave</h1>
-<h3 align="center">"Everyth!ng needs an upgrade!"</h3>
+<h3 align="center">"A passionate programmer!"</h3>
 
 <p align="center">
   <img src="https://www.india.com/wp-content/uploads/2024/07/MixCollage-30-Jun-2024-02-04-AM-2457.jpg" width="200" alt="Jay Dave Profile" style="border-radius: 50%" />
