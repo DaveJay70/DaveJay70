@@ -5,9 +5,6 @@
   <img src="https://www.india.com/wp-content/uploads/2024/07/MixCollage-30-Jun-2024-02-04-AM-2457.jpg" width="200" alt="Jay Dave Profile" style="border-radius: 50%" />
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Coding Animation" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DaveJay70&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
