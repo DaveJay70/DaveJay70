@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with expertise in the **MERN Stack** and **Flutter**. I enjoy building robust web applications and modern mobile experiences. I'm passionate about clean code, scalability, and learning the latest technologies.
+I'm a **Full Stack Developer** with expertise in the **MERN Stack** and **Flutter**. I enjoy building robust web applications and modern mobile experiences. I'm passionate about clean code, scalability, and learning the latest technologies
 
 - 🔭 I’m currently working on MERN & Flutter projects.
 - 🌱 I’m currently learning advanced backend architecture and microservices.
