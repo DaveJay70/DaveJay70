@@ -70,5 +70,5 @@ I'm a **Full Stack Developer** with expertise in the **MERN Stack** and **Flutte
 - 🧑‍🤝‍🧑 Followers: ![GitHub followers](https://img.shields.io/github/followers/DaveJay70?label=Followers&style=social)
 !"</h3>
 
-*Badges:
+*Badges: <br/>
 <img src="https://github.githubassets.com/assets/profile-first-pr-e568025b6e24.svg" />s
